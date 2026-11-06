@@ -4,12 +4,4 @@
       "id": "event-halloween",
       "title": "Halloween event is live!",
       "message": "Check the new rewards before it ends."
-    },
-    {
-      "id": "welcome-1",
-      "date": "2026-11-06",
-      "title": "Welcome to JQoL!",
-      "message": "Thanks for using the mod. Open the bell anytime to see news and important alerts."
     }
-  ]
-}
