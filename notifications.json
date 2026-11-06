@@ -1,13 +1,15 @@
 {
   "notifications": [
     {
+      "id": "event-halloween",
+      "title": "Halloween event is live!",
+      "message": "Check the new rewards before it ends."
+    },
+    {
       "id": "welcome-1",
       "date": "2026-11-06",
       "title": "Welcome to JQoL!",
-      "title_ar": "مرحباً بك في JQoL!",
-      "message": "Thanks for using the mod. Open the bell anytime to see news and important alerts.",
-      "message_ar": "شكراً لاستخدامك المود. افتح الجرس في أي وقت لرؤية الأخبار والتنبيهات المهمة.",
-      "important": false
+      "message": "Thanks for using the mod. Open the bell anytime to see news and important alerts."
     }
   ]
 }
