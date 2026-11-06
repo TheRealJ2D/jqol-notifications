@@ -1,6 +1,12 @@
 {
   "notifications": [
     {
+      "id": "new-update-is-now-available-261106",
+      "date": "2026-11-06T09:43:02Z",
+      "title": "New Update is now Available",
+      "message": "Update now\nNotes:\n- bug fixes\n- improvements\n- new features\n- update to enjoy!"
+    },
+    {
       "id": "new-update-is-out-261106",
       "date": "2026-11-06T09:41:30Z",
       "title": "New update is out!",
