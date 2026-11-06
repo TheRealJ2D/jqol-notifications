@@ -1,6 +1,12 @@
 {
   "notifications": [
     {
+      "id": "changes-261106",
+      "date": "2026-11-06T09:49:46Z",
+      "title": "Changes:",
+      "message": "- Fixed some bugs\n- fixed crash occurs when enabling fullbright\n- new feature: Notification system"
+    },
+    {
       "id": "update-now-261106",
       "date": "2026-11-06T09:44:49Z",
       "title": "Update now",
