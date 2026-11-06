@@ -1,6 +1,12 @@
 {
   "notifications": [
     {
+      "id": "new-update-is-out-261106",
+      "date": "2026-11-06T09:41:30Z",
+      "title": "New update is out!",
+      "message": "Version: 1.0.2\nUpdate now..."
+    },
+    {
       "id": "update-101-261106",
       "date": "2026-11-06T08:08:51Z",
       "title": "Update: 1.0.1",
