@@ -1,6 +1,12 @@
 {
   "notifications": [
     {
+      "id": "update-101-261106",
+      "date": "2026-11-06T08:08:51Z",
+      "title": "Update: 1.0.1",
+      "message": "is live now!, download it!"
+    },
+    {
       "id": "new-update-please-update-261106",
       "date": "2026-11-06T07:38:08Z",
       "title": "new update!, please update!",
