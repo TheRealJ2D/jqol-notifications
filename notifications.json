@@ -1,6 +1,12 @@
 {
   "notifications": [
     {
+      "id": "new-update-please-update-261106",
+      "date": "2026-11-06T07:38:08Z",
+      "title": "new update!, please update!",
+      "title_ar": "حديث جديد!, الرجاء التحديث"
+    },
+    {
       "id": "a-new-update-is-out-261106-2",
       "date": "2026-11-06",
       "title": "a new update is out!"
