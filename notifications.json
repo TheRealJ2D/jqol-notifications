@@ -1,6 +1,11 @@
 {
   "notifications": [
     {
+      "id": "a-new-update-is-out-261106-2",
+      "date": "2026-11-06",
+      "title": "a new update is out!"
+    },
+    {
       "id": "a-new-update-is-out-261106",
       "date": "2026-11-06",
       "title": "a new update is out!"
